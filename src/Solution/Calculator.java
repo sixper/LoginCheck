@@ -2,7 +2,7 @@ package Solution;
 
 import java.util.*;
 
-public class Calculator {
+public class LoginCheck {
 
 
     public static void main(String[] args) {
